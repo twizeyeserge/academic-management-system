@@ -5,7 +5,7 @@ ams = AcademicManagementSystem("student_data")
 
 # Store student records
 ams.store_student_info("2024/001", "Twizeye Serge", "Level 5")
-
+ams.store_student_info("2024/002", "Twizeye ora", "level 5")
 
 # Display all records
 ams.read_student_info()
